@@ -1,0 +1,6 @@
+[submodule "EXTERNAL_HEADERS/RSL"]
+	path = EXTERNAL_HEADERS/RSL
+	url = git@github.com:ne-app/RSL.git
+[submodule "EXTERNAL_HEADERS/Avkon"]
+	path = EXTERNAL_HEADERS/Avkon
+	url = git@github.com:ne-app/Avkon.git
