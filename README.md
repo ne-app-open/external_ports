@@ -1,3 +1,5 @@
-# Ne.app Template
+# Ports for Ne.app Ant and NeAnt
 
-Use it to generate your own projects.
+This repository lets you port software and drivers to NeAnt and Ant.
+It's a first step for contributing to Ne.app's suite.
+
